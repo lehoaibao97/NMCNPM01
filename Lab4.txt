@@ -1,4 +1,0 @@
-source_code/
-UI_Design.pptx
-DatabaseDiagram.sql
-TestReport.pdf
