@@ -1,3 +1,0 @@
-WBS.xlsx
-RiskManagement.pdf
-ProjectPlan.pdf
