@@ -1,3 +1,0 @@
-UseCase.png
-ActivityDiagram.png
-ERD.drawio
